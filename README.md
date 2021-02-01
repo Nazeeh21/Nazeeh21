@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazeeh Vahora</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/nazeeh-vahora-a48abb196/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazeeh-vahora" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Nazeeh_v21" target="blank"><img src="https://img.shields.io/twitter/follow/Nazeeh_v.21?logo=twitter&style=for-the-badge" alt="Nazeeh_v21" /></a> </p>
 
 - 🔭 I’m currently working on [Project Lockdown](https://projectlockdown.world)
 
