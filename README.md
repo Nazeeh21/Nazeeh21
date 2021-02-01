@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **nazeehvahora.786@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/qv7jSlZfT](https://resume.io/r/qv7jSlZfT)
+- 📄 Know about my experiences [https://resume.io/r/ynKyrgFNX](https://resume.io/r/ynKyrgFNX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Nazeeh_v21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nazeeh2000" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/Nazeeh_v21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nazeeh2000" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/nazeeh-vahora-a48abb196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazeeh-vahora" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/dhaiwat10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dhaiwat10" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/naz3eh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nazeeh2000" height="30" width="40" /></a>
