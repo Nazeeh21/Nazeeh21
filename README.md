@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **nazeehvahora.786@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/ynKyrgFNX](https://resume.io/r/ynKyrgFNX)
+<!-- - 📄 Know about my experiences [https://resume.io/r/ynKyrgFNX](https://resume.io/r/ynKyrgFNX) -->
 
 - ⚡ Fun fact **I think, I overthinks a lot ;D**
 
