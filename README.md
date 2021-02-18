@@ -31,15 +31,15 @@
 
 - 🔭 I’m currently working on [Project Lockdown](http://projectlockdown.world/)
 
-- 🌱 I’m currently learning **Data Science, Cloud Computing, AWS**
+- 🌱 I’m currently learning **Machine Learning, Deep Leaning, AWS**
 
 - 👨‍💻 All of my projects are available at [https://nazeeh2000.github.io/](https://nazeeh2000.github.io/)
 
-- 💬 Ask me about **React, Nextjs, TypeScript, Tailwind, Node**
+- 💬 Ask me about **React, Nextjs, TypeScript, Tailwind, Node, Java, C++, Python**
 
 - 📫 How to reach me **nazeehvahora.786@gmail.com**
 
-<!-- - 📄 Know about my experiences [https://resume.io/r/ynKyrgFNX](https://resume.io/r/ynKyrgFNX) -->
+- 📄 Know about my experiences [https://resume.io/r/ynKyrgFNX](https://resume.io/r/ynKyrgFNX)
 
 - ⚡ Fun fact **I think, I overthinks a lot ;D**
 
