@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on [Project Lockdown](http://projectlockdown.world/)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Leaning, AWS**
+- 🌱 I’m currently learning **Machine Learning, Deep Leaning, Natural Language Processing, AWS**
 
 - 👨‍💻 All of my projects are available at [https://nazeeh2000.github.io/](https://nazeeh2000.github.io/)
 
