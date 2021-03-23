@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Nazeeh Vahora</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Project Lockdown](http://projectlockdown.world/)
+- 🔭 I’m currently working on [Project Lockdown](https://projectlockdown.world/)
 
 - 🌱 I’m currently learning **Data Science, Cloud Computing, AWS**
 
