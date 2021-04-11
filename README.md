@@ -21,9 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a style='display: inline-block' href="https://linkedin.com/in/nazeeh-vahora-a48abb196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazeeh-vahora-a48abb196" height="30" width="40" /></a>
+<a style='display: inline-block' href="https://linkedin.com/in/nazeeh-vahora-a48abb196" target="blank"><img style='background-color: white' align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazeeh-vahora-a48abb196" height="30" width="40" /></a>
 <a href="https://instagram.com/naz3eh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="naz3eh" height="30" width="40" /></a>
 </p>
+
+</br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeh2000&show_icons=true&count_private=true)
 
