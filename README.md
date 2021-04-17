@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Devdit](https://github.com/Nazeeh2000/devdit)
 
-- 🌱 I’m currently learning **Graphql, PostgreSQL, DevOps**
+- 🌱 I’m currently learning **Blockchain, Solidity, Smart Contracts**
 
 - 👨‍💻 All of my projects are available at [https://nazeeh2000.github.io/](https://nazeeh2000.github.io/)
 
