@@ -3,9 +3,11 @@
 <h1 align="center">Hi 👋, I'm Nazeeh Vahora</h1>
 <h3 align="center">A passionate Full stack Web developer</h3>
 
-- 🔭 I’m currently working on [Devdit](https://github.com/Nazeeh2000/devdit)
+<!-- - 🔭 I’m currently working on [Devdit](https://github.com/Nazeeh2000/devdit) -->
 
 - 🌱 I’m currently learning **Blockchain, Solidity, Smart Contracts**
+
+- 🔭 My best project uptil now is [Devdit](https://github.com/Nazeeh2000/devdit)
 
 - 👨‍💻 All of my projects are available at [https://nazeeh2000.github.io/](https://nazeeh2000.github.io/)
 
