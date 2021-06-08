@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Nazeeh Vahora</h2>
 <h3 align="center">A Full stack Web developer</h3>
 
-<!-- - 🔭 I’m currently working on [Devdit](https://github.com/Nazeeh21/devdit) -->
+- 🔭 I’m currently working on [Devdit](https://github.com/Nazeeh21/Get-it-Here)
 
 <!-- - 🌱 I’m currently learning **Blockchain, Solidity, Smart Contracts** -->
 
@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://nazeeh21.github.io/](https://nazeeh21.github.io/) -->
 
-- 💬 Ask me about **Nextjs, TypeScript, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
+- 💬 Ask me about **Nextjs, TypeScript, Ethereum Smart Contracts, Solidiy, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
 
 <!-- - 📫 How to reach me **nazeehvahora.786@gmail.com** -->
 
