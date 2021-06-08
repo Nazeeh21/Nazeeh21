@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Nazeeh Vahora</h2>
 <h3 align="center">A Full stack Web developer</h3>
 
-- 🔭 I’m currently working on [Devdit](https://github.com/Nazeeh21/Get-it-Here)
+- 🔭 I’m currently working on [Get it Here](https://github.com/Nazeeh21/Get-it-Here)
 
 <!-- - 🌱 I’m currently learning **Blockchain, Solidity, Smart Contracts** -->
 
