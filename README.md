@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Nextjs, TypeScript, Ethereum Smart Contracts, Solidiy, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
 
-<!-- - 📫 How to reach me **nazeehvahora.786@gmail.com** -->
+- 📫 Contact me at **nazeehvahora.786@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/ynKyrgFNX](https://resume.io/r/ynKyrgFNX)
 
