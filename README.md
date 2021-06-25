@@ -31,7 +31,7 @@
 </br>
 
 <a href="https://archiveprogram.github.com/" class="d-inline-block" data-hovercard-type="acv_badge" data-hovercard-url="/users/Nazeeh21/acv/hovercard">
-  <img alt="Github developer program" width="64px" src="Octocat.png">
+  <img alt="Github developer program" width="64px" src="/public/Octocat.png">
 </a>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeh21&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=150e56) -->
