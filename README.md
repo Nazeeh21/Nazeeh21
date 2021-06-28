@@ -30,7 +30,7 @@
 
 </br>
 
-<a href="https://github.com/Nazeeh21/Meshare" target="blank"><img align="center" src="/public/Octocat.png" alt="Octocat" height="50" width="50" /></a>
+<a href="https://github.com/Nazeeh21/Meshare" target="blank"><img align="center" src="/public/Octocat.png" alt="Octocat" height="65" width="65" /></a>
 </p>
 
 <!-- <a href="https://developer.github.com/program/" class="d-inline-block" data-hovercard-type="acv_badge" >
