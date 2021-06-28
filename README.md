@@ -30,6 +30,9 @@
 
 </br>
 
+<a href="https://github.com/Nazeeh21/Meshare" target="blank"><img align="center" src="/public/Octocat.png" alt="Octocat" height="30" width="30" /></a>
+</p>
+
 <!-- <a href="https://developer.github.com/program/" class="d-inline-block" data-hovercard-type="acv_badge" >
   <img alt="Github developer program" width="64px" src="/public/Octocat.png">
 </a> -->
