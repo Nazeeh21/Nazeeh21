@@ -25,7 +25,7 @@
 <p align="left">
 <a style='display: inline-block' href="https://linkedin.com/in/nazeeh-vahora-a48abb196" target="blank"><img align="center" src="/public/linkedin.svg" alt="nazeeh-vahora-a48abb196" height="30" width="30" /></a>
 <a href="https://instagram.com/naz3eh" target="blank"><img align="center" src="/public/instagram.svg" alt="naz3eh" height="30" width="30" /></a>
-<a href="https://twitter.com/Nazeeh_v21" target="blank"><img align="center" src="/public/twitter.svg" alt="Nazeeh_v21" height="30" width="30" /></a>
+<a href="https://twitter.com/Nazeeh21" target="blank"><img align="center" src="/public/twitter.svg" alt="Nazeeh_v21" height="30" width="30" /></a>
 </p>
 
 </br>
