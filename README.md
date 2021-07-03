@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Nextjs, TypeScript, Ethereum Smart Contracts, Solidiy, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
 
+- 📄 Checkout my blog about **Dapps** [here](https://nazeeh.hashnode.dev/develop-your-first-dapp)
+
 - 📫 Contact me at **nazeehvahora.786@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/ynKyrgFNX](https://resume.io/r/ynKyrgFNX)
