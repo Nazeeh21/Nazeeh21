@@ -15,7 +15,7 @@
 
 - 📄 Checkout my blog about **Dapps** [here](https://nazeeh.hashnode.dev/develop-your-first-dapp)
 
-- ⚡ I published my first **npm-package**,  [react-agora](https://www.npmjs.com/package/react-agora)
+- ⚡ My first **npm-package**,  [react-agora](https://www.npmjs.com/package/react-agora)
 
 - 📫 Contact me at **nazeehvahora.786@gmail.com**
 
