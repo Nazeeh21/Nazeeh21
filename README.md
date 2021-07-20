@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Nextjs, TypeScript, Ethereum Smart Contracts, Solidiy, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
 
-- 📄 Checkout my blog about **Dapps** [here](https://nazeeh.hashnode.dev/develop-your-first-dapp)
+- 📄 Checkout my blogs [here](https://nazeeh.hashnode.dev/)
 
 - ⚡ My first **npm-package**,  [react-agora](https://www.npmjs.com/package/react-agora)
 
