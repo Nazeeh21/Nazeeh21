@@ -15,7 +15,7 @@
 
 - 📄 Checkout my blogs [here](https://nazeeh.hashnode.dev/)
 
-- ⚡ My first **npm-package**,  [react-agora](https://www.npmjs.com/package/react-agora)
+- ⚡ My **npm-package**,  [react-agora](https://www.npmjs.com/package/react-agora)
 
 - 📫 Contact me at **nazeehvahora.786@gmail.com**
 
