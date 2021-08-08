@@ -1,7 +1,7 @@
 <!-- Readme 1 -->
 
 <h2 align="center">Hi 👋, I'm Nazeeh Vahora</h2>
-<h3 align="center">A Full stack Web developer</h3>
+<h3 align="center">A Full stack Web developer and an Open Source Contributor</h3>
 
 <!-- - 🔭 I’m currently working on [Get it Here](https://github.com/Nazeeh21/Get-it-Here) -->
 
@@ -11,15 +11,13 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://nazeeh21.github.io/](https://nazeeh21.github.io/) -->
 
-- 💬 Ask me about **Nextjs, TypeScript, Ethereum Smart Contracts, Solidiy, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
+- 💬 My Tech Stack: **Nextjs, TypeScript, Ethereum Smart Contracts, Solidiy, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
 
 - 📄 Checkout my blogs [here](https://nazeeh.hashnode.dev/)
 
 - ⚡ My **npm-package**,  [react-agora](https://www.npmjs.com/package/react-agora)
 
 - 📫 Contact me at **nazeehvahora.786@gmail.com**
-
-- 📄 Know about my experiences [https://resume.io/r/ynKyrgFNX](https://resume.io/r/ynKyrgFNX)
 
 <!-- - 📄 My past experience [letter](https://drive.google.com/file/d/1gV32ThE63cUZ3WgizsYkblrOMpWM8y7c/view?usp=sharing) -->
 
@@ -31,6 +29,18 @@
 <a href="https://instagram.com/naz3eh" target="blank"><img align="center" src="/public/instagram.svg" alt="naz3eh" height="30" width="30" /></a>
 <a href="https://twitter.com/Nazeeh21" target="blank"><img align="center" src="/public/twitter.svg" alt="Nazeeh_v21" height="30" width="30" /></a>
 </p>
+
+</br>
+
+### Contributed in following Open Source Projects
+
+> [Storybook js](https://github.com/storybookjs/storybook/pull/15449)
+>
+> [Jupyter Notebook](https://github.com/jupyter/notebook/pull/6108)
+>
+> [Dailydotdev](https://github.com/dailydotdev/apps/pull/590)
+>
+> [The IO Foundation](https://github.com/TheIOFoundation/ProjectLockdown/pull/222)
 
 </br>
 
