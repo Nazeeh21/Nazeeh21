@@ -30,8 +30,6 @@
 <a href="https://twitter.com/Nazeeh21" target="blank"><img align="center" src="/public/twitter.svg" alt="Nazeeh_v21" height="30" width="30" /></a>
 </p>
 
-</br>
-
 ### Contributed in following Open Source Projects
 
 > [Storybook js](https://github.com/storybookjs/storybook/pull/15449)
