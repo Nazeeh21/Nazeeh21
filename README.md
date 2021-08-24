@@ -32,13 +32,17 @@
 
 ### Contributed in following Open Source Projects
 
-> [Storybook js](https://github.com/storybookjs/storybook/pull/15449)
+> [Storybook js](https://github.com/storybookjs/storybook/)
 >
-> [Jupyter Notebook](https://github.com/jupyter/notebook/pull/6108)
+> [Jupyter Notebook](https://github.com/jupyter/notebook/)
 >
-> [Dailydotdev](https://github.com/dailydotdev/apps/pull/590)
+> [Dailydotdev](https://github.com/dailydotdev/apps/)
 >
-> [The IO Foundation](https://github.com/TheIOFoundation/ProjectLockdown/pull/222)
+> [The IO Foundation](https://github.com/TheIOFoundation/ProjectLockdown/)
+>
+> [Supabase](https://github.com/supabase/ui)
+
+> [Fastify](https://github.com/fastify/fastify)
 
 </br>
 
