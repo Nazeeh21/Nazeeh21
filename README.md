@@ -32,6 +32,10 @@
 
 ### Contributed in following Open Source Projects
 
+> [Supabase](https://github.com/supabase/ui)
+>
+> [Fastify](https://github.com/fastify/fastify)
+> 
 > [Storybook js](https://github.com/storybookjs/storybook/)
 >
 > [Jupyter Notebook](https://github.com/jupyter/notebook/)
@@ -39,10 +43,6 @@
 > [Dailydotdev](https://github.com/dailydotdev/apps/)
 >
 > [The IO Foundation](https://github.com/TheIOFoundation/ProjectLockdown/)
->
-> [Supabase](https://github.com/supabase/ui)
-
-> [Fastify](https://github.com/fastify/fastify)
 
 </br>
 
