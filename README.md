@@ -1,27 +1,30 @@
 <!-- Readme 1 -->
 
 <h2 align="center">Hi 👋, I'm Nazeeh Vahora</h2>
-<h3 align="center">A Full stack Web developer and an Open Source Contributor</h3>
+
+I am a full-stack Web developer, proficient in front-end and interested in blockchain technology. I often give [talks](https://youtu.be/MYu_Mh0lrYY?t=5313) in community and pen down my experiences in my [blogs](https://nazeeh.hashnode.dev/). I love contributing to open-source communities.
 
 <!-- - 🔭 I’m currently working on [Get it Here](https://github.com/Nazeeh21/Get-it-Here) -->
 
 <!-- - 🌱 I’m currently learning **Blockchain, Solidity, Smart Contracts** -->
 
-- 🔭 My best projects uptil now are [Meshare](https://github.com/Nazeeh21/meshare) and [Devdit on Blockchain](https://github.com/Nazeeh21/devdit-blockchain)
+<!-- - 🔭 My best projects uptil now are [Meshare](https://github.com/Nazeeh21/meshare) and [Devdit on Blockchain](https://github.com/Nazeeh21/devdit-blockchain) -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://nazeeh21.github.io/](https://nazeeh21.github.io/) -->
 
-- 💬 My Tech Stack: **Nextjs, TypeScript, Ethereum Smart Contracts, Solidiy, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
+- 💬 I am experienced with: **Nextjs, TypeScript, Ethereum Smart Contracts, Solidiy, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
 
 - 📄 Checkout my blogs [here](https://nazeeh.hashnode.dev/)
 
-- ⚡ My **npm-package**,  [react-agora](https://www.npmjs.com/package/react-agora)
+<!-- - ⚡ My **npm-package**,  [react-agora](https://www.npmjs.com/package/react-agora) -->
 
-- 📫 Contact me at **nazeehvahora.786@gmail.com**
+<!-- - 📫 Contact me at **nazeehvahora.786@gmail.com** -->
 
 <!-- - 📄 My past experience [letter](https://drive.google.com/file/d/1gV32ThE63cUZ3WgizsYkblrOMpWM8y7c/view?usp=sharing) -->
 
 <!-- - ⚡ Fun fact **I think, I overthinks a lot ;D** -->
+
+- :unicorn: My portfolio: [nazeeh.dev](https://nazeeh.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +35,8 @@
 
 ### Contributed in following Open Source Projects
 
+> [DeveloperDAO](https://github.com/Developer-DAO/developer-dao)
+> 
 > [Supabase](https://github.com/supabase/ui)
 >
 > [Fastify](https://github.com/fastify/fastify)
