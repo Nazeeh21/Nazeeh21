@@ -12,7 +12,7 @@ I am a full-stack Web developer, proficient in front-end and interested in block
 
 <!-- - 👨‍💻 All of my projects are available at [https://nazeeh21.github.io/](https://nazeeh21.github.io/) -->
 
-- 💬 I am experienced with: **Nextjs, TypeScript, Ethereum Smart Contracts, Solidiy, Tailwind, Node, Java, C++, Python, PostgreSQL, TypeGraphQl, GraphQL, Docker**
+- 💬 I am experienced with: **Nextjs, TypeScript, Ethereum Smart Contracts, Solidity, Tailwind, Node, PostgreSQL, TypeGraphQl, GraphQL, Docker**
 
 - 📄 Checkout my blogs [here](https://nazeeh.hashnode.dev/)
 
@@ -23,8 +23,8 @@ I am a full-stack Web developer, proficient in front-end and interested in block
 <!-- - 📄 My past experience [letter](https://drive.google.com/file/d/1gV32ThE63cUZ3WgizsYkblrOMpWM8y7c/view?usp=sharing) -->
 
 <!-- - ⚡ Fun fact **I think, I overthinks a lot ;D** -->
-
-- :unicorn: My portfolio: [nazeeh.dev](https://nazeeh.dev)
+<!-- 
+- :unicorn: My portfolio: [nazeeh.dev](https://nazeeh.dev) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
